@@ -28,8 +28,7 @@
     "docs:preview": "vitepress preview docs",
     "docs:publish": "npm run docs:build && sh publish-docs.sh",
     "build": "npm run lib:build && npm run demo:build && npm run docs:build",
-    "prepublishOnly": "npm run lib:publish && npm run docs:publish",
-    "build": "npm run lib:build && npm run demo:build && npm run docs:build"
+    "prepublishOnly": "npm run lib:publish && npm run docs:publish"
   },
   "repository": {
     "type": "git",
