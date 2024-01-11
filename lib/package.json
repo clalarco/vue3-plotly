@@ -23,7 +23,8 @@
   "exports": {
     ".": {
       "import": "./dist/plotly-vue-ts.es.js",
-      "require": "./dist/plotly-vue-ts.umd.js"
+      "require": "./dist/plotly-vue-ts.umd.js",
+      "types": "./dist/main.d.ts"
     }
   },
   "types": "./dist/main.d.ts",
