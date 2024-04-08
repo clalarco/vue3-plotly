@@ -1,6 +1,6 @@
 {
   "name": "@clalarco/vue3-plotly",
-  "version": "0.0.0-development",
+  "version": "0.1.15",
   "description": "Vue 3 component for plotly.js. Forked from <https://github.com/VanOord/vue3-plotly>",
   "author": "Claudio Alarcon <https://github.com/clalarco>",
   "contributor": "Van Oord (original author) <https://github.com/VanOord>",
